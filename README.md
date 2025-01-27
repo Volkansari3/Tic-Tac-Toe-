@@ -14,3 +14,5 @@ How to Play:
 - Players take turns selecting a position on the 3x3 grid (positions are numbered 1-9).
 - The game ends when one player wins or the board is full (resulting in a draw).
 - After the game ends, players can choose to play again or quit.
+
+NOTE:This project is inspired by Milestone Project 1 from The Complete Python Bootcamp: From Zero to Hero in Python course. The code structure and certain functionalities were developed based on the content of the course.
